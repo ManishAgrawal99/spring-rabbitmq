@@ -1,0 +1,7 @@
+Setup ERLang
+
+Enable RabbitMQ Plugin
+rabbitmq-plugins.bat enable rabbitmq_management
+
+RabbitMQ management panel
+localhost:15672
